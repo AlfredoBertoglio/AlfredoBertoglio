@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AlfredoBertoglio
+- 👋 Hi, I’m Alfredo
 - 👀 I’m interested in ... Creating Modern Websites
 - 🌱 I’m currently learning ... React
-- 💞️ I’m looking to collaborate on ... React, VueJS
+- 💞️ I’m looking to collaborate on ... React, Javascript
 - 📫 How to reach me ... send me an email to: alfredowebdev@gmail.com
