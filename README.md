@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alfredo
+- 👋🏼 Hi, I’m Alfredo
 - 👀 I’m interested in ... Creating Modern Websites
 - 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... React, Javascript
