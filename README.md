@@ -1,5 +1,5 @@
 - 👋🏼 Hi, I’m Alfredo
 - 👀 I’m interested in ... Creating Modern Websites
-- 🌱 I’m currently learning ... React, Three.js
+- 🌱 I’m currently learning ... Three.js
 - 💞️ I’m looking to collaborate on ... Javascript, React, Three.js, WebGL
 - 📫 How to reach me ... send me an email to: alfredowebdev@gmail.com
